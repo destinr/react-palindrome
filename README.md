@@ -8,8 +8,7 @@ Release 0 - Create your text box
 
 Release 1 - Capture what you typed
 ---------------
-Once a user types something into your text box, capture what they typed. Referencing the `.value` of the text input field can either be done through the *event* object automatically passed into your event handler function, or via [refs](https://facebook.github.io/react/docs/refs-and-the-dom.html).
-
+Once a user types something into your text box, capture what they typed. Referencing the `.value` of the text input field can either be done through the *event* object automatically passed into your event handler function, or via [refs](https://beta.reactjs.org/apis/react/useRef).
  
 Release 2 - Write your palindrome function
 -------------
